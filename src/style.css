@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+
+/* Header Section */
+
+header {
+  background: #f55a5a;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5em;
+}
+
+.world-icon {
+  font-size: 1.5rem;
+  margin-right: 0.5em;
+}
